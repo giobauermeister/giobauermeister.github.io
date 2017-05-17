@@ -31,11 +31,11 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="">
+	<meta name="description" content="»Knoledge has to be shared and that&amp;#8217;s the main purpose of this Blog. Here we will share experiences and projects about Arduino, electronics, programming, Raspberry Pi, Linux and beyond.">
+	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
+	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
-	
-	
-	
+	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
 	<link rel="canonical" href="http://localhost:4000/assets/xslt/rss.xslt">
@@ -43,15 +43,23 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="">
+	<meta property="og:description" content="»Knoledge has to be shared and that&amp;#8217;s the main purpose of this Blog. Here we will share experiences and projects about Arduino, electronics, programming, Raspberry Pi, Linux and beyond.">
 	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Bauers Blog">
 	
+	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+
+
 	
-
-
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="phlow">
+	<meta name="twitter:creator" content="phlow">
+	<meta name="twitter:title" content="RSS Feed (Styled)">
+	<meta name="twitter:description" content="»Knoledge has to be shared and that&amp;#8217;s the main purpose of this Blog. Here we will share experiences and projects about Arduino, electronics, programming, Raspberry Pi, Linux and beyond.">
+	
 	
 
 	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
@@ -60,29 +68,30 @@
 
 	
 
-	
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
 
-	
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
+	<meta name="msapplication-TileColor" content="#fabb00">
 
 
 	
@@ -410,8 +419,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="Bauers Blog – ">
-				<img src="http://localhost:4000/assets/img/" alt="Bauers Blog – ">
+			<a id="logo" href="http://localhost:4000/" title="Bauers Blog – Arduino, Raspberry Pi, Linux and beyond">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Bauers Blog – Arduino, Raspberry Pi, Linux and beyond">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -488,7 +497,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              
+              »Knoledge has to be shared and that&#8217;s the main purpose of this Blog. Here we will share experiences and projects about Arduino, electronics, programming, Raspberry Pi, Linux and beyond.
               <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -592,7 +601,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            
+            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
@@ -624,6 +633,18 @@
 
 
 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60112281-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
 
 
 
