@@ -12,3 +12,8 @@ phlow: # replace this with your info
   email:
   twitter: "@phlow"
 # you can add more authors here
+giovanni:
+  name: "Giovanni"
+  siterole: "creative engineer, developer, embedded systems enthusiast"
+  email: giovanni.bauermeister@gmail.com
+
