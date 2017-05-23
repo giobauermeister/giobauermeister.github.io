@@ -24,8 +24,8 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: phlow
-#author: giovanni
+#author: phlow
+author: giovanni
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -210,7 +210,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname: giobauermeister-github-io
 
 
 #      _____
@@ -234,7 +234,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id: UA-99760334-1
 
 
 

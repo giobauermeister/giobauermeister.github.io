@@ -2,18 +2,6 @@
   url: "/"
   side: left
 
-- title: Arduino
-  url: "/arduino/"
-  side: left
-
-- title: Raspberry Pi
-  url: "/raspberrypi/"
-  side: left
-
-- title: Linux Embarcado
-  url: "/linuxembarcado/"
-  side: left
-
 - title: Getting Started
   url: "/getting-started/"
   side: left
@@ -77,6 +65,18 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+
+- title: Arduino
+  url: "/arduino/"
+  side: left
+
+- title: Raspberry Pi
+  url: "/raspberrypi/"
+  side: left
+
+- title: Linux Embarcado
+  url: "/linuxembarcado/"
+  side: left
 
 - title: "Search"
   url: "/search/"

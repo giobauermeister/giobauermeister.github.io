@@ -154,6 +154,24 @@
 
           
           
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
             
             
               <li class="divider"></li>
@@ -191,6 +209,51 @@
             
             
               <li><a  href="http://localhost:4000/">Start</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/arduino/">Arduino</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/raspberrypi/">Raspberry Pi</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/linuxembarcado/">Linux Embarcado</a></li>
               <li class="divider"></li>
 
             
@@ -640,7 +703,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-60112281-1', 'auto');
+  ga('create', 'UA-99760334-1', 'auto');
   ga('set', 'anonymizeIp', true);
   ga('send', 'pageview');
 
