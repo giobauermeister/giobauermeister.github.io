@@ -1,28 +1,19 @@
 ---
-layout: page
-#
-# Content
-#
-subheadline: ""
-title: ""
-teaser: ""
+title: ''
+date: 2017-07-03 15:50:06.250000000 Z
 categories:
-  - 
-tags:
-  - 
-#
-# Styling
-#
+- 
+- ''
+layout: page
+subheadline: ''
+teaser: ''
 image:
-    title:
-    thumb:
-    homepage:
-    caption:
-    caption_url:
+  title: 
+  thumb: 
+  homepage: 
+  caption: 
+  caption_url: 
 ---
-
-
-
 
  [1]: #
  [2]: #

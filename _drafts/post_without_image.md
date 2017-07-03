@@ -1,19 +1,13 @@
 ---
-layout: page
-#
-# Content
-#
-subheadline: ""
-title: ""
-teaser: ""
+title: ''
+date: 2017-07-03 15:50:06.363000000 Z
 categories:
-  - 
-tags:
-  - 
+- 
+- ''
+layout: page
+subheadline: ''
+teaser: ''
 ---
-
-
-
 
  [1]: #
  [2]: #
